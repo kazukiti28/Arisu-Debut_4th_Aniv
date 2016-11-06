@@ -22,7 +22,7 @@ function imgClick() {
 		$(".ichigo").fadeIn(300);
 	},2000);
 	setTimeout(function(){
-		$(".mess").fadeIn(300);
+		$(".mess").fadeIn(1000);
 	},1000);
 		setTimeout(function(){
 		$(".message").fadeIn(600);
